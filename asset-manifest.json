@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecomm/static/css/main.84fbc08c.chunk.css",
+    "main.js": "/ecomm/static/js/main.b4e53422.chunk.js",
+    "main.js.map": "/ecomm/static/js/main.b4e53422.chunk.js.map",
+    "runtime-main.js": "/ecomm/static/js/runtime-main.20ef0e0d.js",
+    "runtime-main.js.map": "/ecomm/static/js/runtime-main.20ef0e0d.js.map",
+    "static/js/2.e5fcf832.chunk.js": "/ecomm/static/js/2.e5fcf832.chunk.js",
+    "static/js/2.e5fcf832.chunk.js.map": "/ecomm/static/js/2.e5fcf832.chunk.js.map",
+    "index.html": "/ecomm/index.html",
+    "precache-manifest.860161ad3b5d016c6abe4009ca226789.js": "/ecomm/precache-manifest.860161ad3b5d016c6abe4009ca226789.js",
+    "service-worker.js": "/ecomm/service-worker.js",
+    "static/css/main.84fbc08c.chunk.css.map": "/ecomm/static/css/main.84fbc08c.chunk.css.map",
+    "static/js/2.e5fcf832.chunk.js.LICENSE.txt": "/ecomm/static/js/2.e5fcf832.chunk.js.LICENSE.txt",
+    "static/media/logo.jfif": "/ecomm/static/media/logo.1c39a110.jfif",
+    "static/media/header.css": "/ecomm/static/media/search.9d4e40ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ef0e0d.js",
+    "static/js/2.e5fcf832.chunk.js",
+    "static/css/main.84fbc08c.chunk.css",
+    "static/js/main.b4e53422.chunk.js"
+  ]
+}
