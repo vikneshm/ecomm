@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0F222D;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +37,73 @@
     transform: rotate(360deg);
   }
 }
+
+.header-container{
+	width: 100%;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.header-logo{
+	width:100px;
+	height:100px;
+	float:left;
+	display:inline-block;
+}
+
+.header-txt{
+	width:80%;
+  float:center;
+  font-size: larger;
+	display:inline-block;
+}
+
+.footer-txt{
+	position:fixed;
+	bottom:0px;
+	text-align:center;
+	width:100%;
+}
+
+
+.corona{
+  padding: 10px;
+  background-color: #f44336;
+  color: white;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0F222D;
+}
+
+
+li {
+  float: left;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+  background-color: #111;
+
+}
+
+.active{
+	background-color:red;
+};
